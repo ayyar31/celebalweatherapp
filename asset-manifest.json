@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/celebalweatherapp/static/css/main.2d4ffa73.css",
+    "main.js": "/celebalweatherapp/static/js/main.beddda9f.js",
+    "static/js/787.5a787a0b.chunk.js": "/celebalweatherapp/static/js/787.5a787a0b.chunk.js",
+    "index.html": "/celebalweatherapp/index.html",
+    "main.2d4ffa73.css.map": "/celebalweatherapp/static/css/main.2d4ffa73.css.map",
+    "main.beddda9f.js.map": "/celebalweatherapp/static/js/main.beddda9f.js.map",
+    "787.5a787a0b.chunk.js.map": "/celebalweatherapp/static/js/787.5a787a0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d4ffa73.css",
+    "static/js/main.beddda9f.js"
+  ]
+}
